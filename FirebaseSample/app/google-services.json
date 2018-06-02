@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "594318155982",
+    "firebase_url": "https://restaurant-6f884.firebaseio.com",
+    "project_id": "restaurant-6f884",
+    "storage_bucket": "restaurant-6f884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594318155982:android:d0071bb36cb4e859",
+        "android_client_info": {
+          "package_name": "com.brillicaservices.firebasesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594318155982-kl4783adefo2mjv1je9dcvgu2us8iheh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brillicaservices.firebasesample",
+            "certificate_hash": "6d7a474a8512d033544a559741b9bf2cc9271832"
+          }
+        },
+        {
+          "client_id": "594318155982-f2dhc42at8do3qh6q2d9s7nqver0m3p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRIPEIZT2uh-6hpAw1fNfW97vqZxdfzJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594318155982-f2dhc42at8do3qh6q2d9s7nqver0m3p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
