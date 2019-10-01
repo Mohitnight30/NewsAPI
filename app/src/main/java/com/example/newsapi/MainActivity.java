@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
 
         requestQueue.start();
 
-        String newsUrl = "https://newsapi.org/v2/everything?q=bitcoin&from=2019-09-01&sortBy=publishedAt&apiKey=329d5248e05248b8a150bdf4b475357c";
+        String newsUrl = "https://newsapi.org/v2/everything?q=bitcoin&from=2019-09-01&sortBy=publishedAt&apiKey=userdefined";
 
         JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.GET, newsUrl, null,
                 new Response.Listener<JSONObject>() {
