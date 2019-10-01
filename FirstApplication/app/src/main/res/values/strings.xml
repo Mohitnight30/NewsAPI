@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample Application</string>
+    <string-array name="college_names">
+        <item id="DIT">DIT</item>
+        <item id="GEU">GEU</item>
+        <item id="HNGBU">HNGBU</item>
+    </string-array>
+</resources>
